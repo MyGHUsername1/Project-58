@@ -18,7 +18,10 @@ p {
 }
 
 title{
+    font-size: 30px;
+    line-height: 1.2;
     font-family: 'Sue Ellen Francisco', cursive;
+    text-align: center;
 }
 .menu {
     list-style: none;
