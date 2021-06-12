@@ -17,12 +17,13 @@ p {
 
 }
 
-title{
+title {
     font-size: 30px;
     line-height: 1.2;
     font-family: 'Sue Ellen Francisco', cursive;
     text-align: center;
 }
+
 .menu {
     list-style: none;
     font-family: cursive;
@@ -33,7 +34,7 @@ title{
     color: black;
 }
 
-.links {
+.link {
     float: left;
     color: #fff;
     padding-top: 5px;
